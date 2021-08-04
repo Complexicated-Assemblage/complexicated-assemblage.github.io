@@ -6,11 +6,9 @@ has_children: true
 has_toc: false
 output: 
   html_document:
-     css: ./agential-realism/style.css
+     css: style.css
      self_contained: no
 ---
-
-<link href="style.css" rel="stylesheet"></link>
 
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
