@@ -4,15 +4,13 @@ title: Agential Realism
 nav_order: 2
 has_children: true
 has_toc: false
-output: 
-  html_document:
-     css: style.css
-     self_contained: no
 ---
+
+<link rel="stylesheet" href="style.css">
 
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
-This is part 4 of a series. Part 1: H[ow Science and Postmodernism Interrelate](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fhow-science-and-postmodernism-interrelate-84ae97f388b0). Part 2: [From Postmodernism to Metamodernism](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Ffrom-postmodernism-to-metamodernism-8c1c3ec8a426). Part 3: [Conspiracy Theories, Ideology, and Metaphysics in the Metamodern Era](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fconspiracy-theories-and-metaphysics-in-the-metamodern-era-89457343faf8).
+This is part 4 of a series. Part 1: [How Science and Postmodernism Interrelate](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fhow-science-and-postmodernism-interrelate-84ae97f388b0). Part 2: [From Postmodernism to Metamodernism](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Ffrom-postmodernism-to-metamodernism-8c1c3ec8a426). Part 3: [Conspiracy Theories, Ideology, and Metaphysics in the Metamodern Era](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fconspiracy-theories-and-metaphysics-in-the-metamodern-era-89457343faf8).
 
 This essay has been a long time coming. I will try and keep this as light as possible but it is a heavy topic.  This topic has roots in a combination of post-structuralism and philosophy of science. This essay is in three sections, each of which starts with a description of a domain, a first sub-section that describes the domain that is named by the section, and then a sub-section that describes how to navigate that domain.  There may be a fourth sub-section that describes how to further manipulate the domain.
 
