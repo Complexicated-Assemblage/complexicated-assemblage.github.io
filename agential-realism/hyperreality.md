@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
+title: Hyperreality
+parent: Agential Realism
 nav_order: 2
 ---
 
