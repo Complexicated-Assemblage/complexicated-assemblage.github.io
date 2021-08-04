@@ -20,7 +20,7 @@ nav_order: 2
 
 ### &emsp; 1.1.1 extension of Kant
 
-## 2.1 As layer of signification
+## 1.2 As layer of signification
 
 ### &emsp; 1.2.1 Semiotics
 
@@ -39,5 +39,39 @@ nav_order: 2
 ### &emsp; 1.2.4 Medium is the message.
 
 #### &emsp; &emsp; 1.2.4.1 Entanglement; Category theory as an example of entanglement
+
+## 1.3 Justification for the signification via imagined causes
+
+### &emsp; 1.3.1 Classical Universalist/Transcendentalist Schemas
+
+#### &emsp; &emsp; 1.3.1.1 Original techne/technics
+
+#### &emsp; &emsp; 1.3.1.2 Psychoanalyatics, phallics, libidino
+
+#### &emsp; &emsp; 1.3.1.3 Semiotics, Lacan (fielding)
+
+#### &emsp; &emsp; 1.3.1.4 Classical modernist/ structuralists
+
+### &emsp; 1.3.2 Post-modern/machine schemas
+
+#### &emsp; &emsp; 1.3.2.1 Foucault, epistemology (domain differences)
+
+#### &emsp; &emsp; 1.3.2.2 Bohrs, production of results
+
+##### &emsp; &emsp; &emsp; 1.3.2.2.1 Entanglement; Complementarism Whole Apparatus
+
+#### &emsp; &emsp; 1.3.2.3 Desiring machines
+
+##### &emsp; &emsp; &emsp; 1.3.2.3.1 Science, Engineering, to fulfill human desires; technology
+
+##### &emsp; &emsp; &emsp; 1.3.2.3.2 Capitalism, writing, consciousness (Marx, Althussier)
+
+##### &emsp; &emsp; &emsp; 1.3.2.3.3 Akira, unpredictable, schizophrenic
+
+##### &emsp; &emsp; &emsp; 1.3.2.3.4 Guidano, scripts
+
+##### &emsp; &emsp; &emsp; 1.3.2.3.1 Entropy, elan vital
+
+## 1.4 Formation of a hyperreal layer see 3.4
 
 
