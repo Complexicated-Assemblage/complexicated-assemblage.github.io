@@ -24,11 +24,11 @@ Instead, I am offering this list so that you can sleep how each of the parent an
 
 There's quite a few major takeaways, but one is to challenge a very basic idea: what is nature. Here's two takeaways in list format.
 
-<p>1. To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.</p>
+<space>1. To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.</space>
 
-<p>While you look over this extended outline you will have many opportunities for creating metaphysical structures, often at the expense of otherstanding other structures.</p>
+<space>While you look over this extended outline you will have many opportunities for creating metaphysical structures, often at the expense of otherstanding other structures.</space>
 
-<p>2. Rejecting modernist ideas include forgoing that objects have static properties that are expressed as some kind of inner core (scientific essentialism). One example of scientific essentialism is that people will consider a person's DNA (or a race of people) as the core of who they are through and through, along with a set of features that they cannot help but be.  Forgoing this idea can lead to understanding how other aspects have influence, other than culture or DNA.</p>
+<space>2. Rejecting modernist ideas include forgoing that objects have static properties that are expressed as some kind of inner core (scientific essentialism). One example of scientific essentialism is that people will consider a person's DNA (or a race of people) as the core of who they are through and through, along with a set of features that they cannot help but be.  Forgoing this idea can lead to understanding how other aspects have influence, other than culture or DNA.</space>
 
 At the end, I hope you will understand when to apply metaphysics and when to eschew it.
 
