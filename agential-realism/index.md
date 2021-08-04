@@ -25,7 +25,7 @@ Instead, I am offering this list so that you can sleep how each of the parent an
 
 There's quite a few major takeaways, but one is to challenge a very basic idea: what is nature. Here's two takeaways in list format.
 
-    1. To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.
+- 1. To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.
 
     While you look over this extended outline you will have many opportunities for creating metaphysical structures, often at the expense of otherstanding other structures.
 
