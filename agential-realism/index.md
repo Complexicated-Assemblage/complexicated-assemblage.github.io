@@ -9,7 +9,7 @@ has_toc: false
 
 
 ```{css, echo=FALSE}
-p.in1 {
+.in1 {
   margin-left: 30px;
 }
 ```
