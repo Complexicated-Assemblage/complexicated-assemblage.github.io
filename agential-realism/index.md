@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 output: 
   html_document:
-     css: style.css
+     css: ./agential-realism/style.css
      self_contained: no
 ---
 
