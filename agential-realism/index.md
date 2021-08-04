@@ -8,10 +8,3 @@ has_children: true
 # Introduction
 
 Hello
-
-# Content
-## Hyperreality
-
-## Agential Realism
-
-## Psychotechnology
