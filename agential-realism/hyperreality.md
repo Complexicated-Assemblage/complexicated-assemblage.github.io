@@ -16,12 +16,12 @@ nav_order: 2
 
 # Hyperreality
 
-1.1 Historic Definition.
+1.1 ## Historic Definition.
 
-&emsp; 1.1.1 extension of Kant
+&emsp; 1.1.1 ### extension of Kant
 
-2.1 As layer of signification
+2.1 ## As layer of signification
 
-1.2.1 Semiotics
-1.2.2 Original Simulacra
-1.2.3 Logic of Sense
+&emsp; 1.2.1 ### Semiotics
+&emsp; 1.2.2 ### Original Simulacra
+&emsp; 1.2.3 ### Logic of Sense
