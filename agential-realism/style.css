@@ -1,4 +1,1 @@
-div {  
-  margin-left: 3em;
-  block: inline-block;
-}
+span { display: block-inline; margin-left: 3em; } 
