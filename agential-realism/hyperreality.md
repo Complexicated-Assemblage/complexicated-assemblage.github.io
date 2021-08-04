@@ -28,16 +28,16 @@ nav_order: 2
 
 ### &emsp; 1.2.3 Logic of Sense
 
-### &emsp; &emsp; 1.2.3.1 Different kinds of agencies
+#### &emsp; &emsp; 1.2.3.1 Different kinds of agencies
 
-### &emsp; &emsp; &emsp; 1.2.3.1.1 Modernism
+##### &emsp; &emsp; &emsp; 1.2.3.1.1 Modernism
 
-### &emsp; &emsp; &emsp; 1.2.3.1.2 Post-modernism
+##### &emsp; &emsp; &emsp; 1.2.3.1.2 Post-modernism
 
-### &emsp; &emsp; &emsp; 1.2.3.1.3 Types, Misc.
+##### &emsp; &emsp; &emsp; 1.2.3.1.3 Types, Misc.
 
 ### &emsp; 1.2.4 Medium is the message.
 
-### &emsp; &emsp; 1.2.4.1 Entanglement; Category theory as an example of entanglement
+#### &emsp; &emsp; 1.2.4.1 Entanglement; Category theory as an example of entanglement
 
 
