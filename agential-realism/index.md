@@ -8,14 +8,14 @@ output:
   html_document:
      css: ./agential-realism/style.css
      self_contained: no
----
+
 
 <style>
 p .indent {
     color:red;
 }
 </style>
-
+---
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
 This is part 4 of a series. Part 1: H[ow Science and Postmodernism Interrelate](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fhow-science-and-postmodernism-interrelate-84ae97f388b0). Part 2: [From Postmodernism to Metamodernism](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Ffrom-postmodernism-to-metamodernism-8c1c3ec8a426). Part 3: [Conspiracy Theories, Ideology, and Metaphysics in the Metamodern Era](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fconspiracy-theories-and-metaphysics-in-the-metamodern-era-89457343faf8).
