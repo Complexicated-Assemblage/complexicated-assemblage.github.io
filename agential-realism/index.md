@@ -6,6 +6,7 @@ has_children: true
 has_toc: false
 ---
 
+<link rel="stylesheet" href="styles.css">
 
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
