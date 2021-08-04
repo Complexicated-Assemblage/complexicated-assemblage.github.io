@@ -55,7 +55,7 @@ nav_order: 4
 
 ##### &emsp; &emsp; &emsp; 3.2.4.2.2 (genres as vanishing mediators) for learning
 
-&emsp; &emsp; &emsp; Unlike the co-subsection, as learning is a matter of perfecting the intra-agency relationship, this subsection has only one pair the co-subjection has.  Learning that is not centered on active learning (see 3.2.4.2.2.2.3) are not mentioned in this sub-section.
+&emsp; &emsp; &emsp; Unlike the co-subsection, as learning is a matter of perfecting the intra-agency relationship, this subsection has only one pair the co-subjection has.  Learning that is not centered on active learning (see 3.2.4.2.2.2.3) are not mentioned in this sub-section as this sub-section focuses on the agencies in relationship to their symbolic.
 
 ###### &emsp; &emsp; &emsp; &emsp; 3.2.4.2.2.1 theraoy, diagnosis, hypothesis and experiment
 
@@ -63,5 +63,12 @@ nav_order: 4
 
 ###### &emsp; &emsp; &emsp; &emsp; 3.2.4.2.2.3 language
 
-&emsp; &emsp; &emsp; &emsp; as learning is also genre vanishing, so learning can also be genre re-inforcing.  This entry is a bit of a paradox, as in this position, one in language would be like that of politics that negates its own activitity.  Nietzsche's last man is at this position, as is Wagner's.
+&emsp; &emsp; &emsp; &emsp; as learning is also genre vanishing, so learning can also be genre re-inforcing.  This entry is a bit of a paradox, as in this position, one in language would be like that of politics that negates its own activitity.  Nietzsche's last man is at this position, as is Wagner's.  You can also draw a parallel here with Christ, self negating because the next phase will be very differet.  Genres vanish so new genres can rule, perhaps like how Bronze Age narratives contrast with Axial Age narratives.  Axial Age narratives describe a self transcendence, like that of Christ's Heaven on Earth or Marx's Communist Revolution.
 
+&emsp; &emsp; &emsp; &emsp; Language is its own event.
+
+#### &emsp; &emsp; 3.2.4.3 Attention focusing can be thought of as active when the attention is focused on a Deleuzian Encounter.
+
+&emsp; &emsp; Deleuzian encounters are opportunities for us to think.  Should the encounter provoke cognitive dissonance, those feelings would be a sign that maybe we didn't account for all the energies involved.
+
+&emsp; &emsp; See ideology (see 3.3.2.1.1 for circularity; see 2.4.4.3 for agency manipulation; see 2.4.3.10 for pedagogy)
