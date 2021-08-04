@@ -4,9 +4,9 @@ title: Agential Realism
 nav_order: 2
 has_children: true
 has_toc: false
----
 
-<link rel="stylesheet" href="styles.css">
+<style> span { display: block-inline; margin-left: 3em; color: red;} </style>
+---
 
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
