@@ -8,14 +8,8 @@ output:
   html_document:
      css: ./agential-realism/style.css
      self_contained: no
-
-
-<style>
-mark {
-    color:red;
-}
-</style>
 ---
+
 # Managing Agency in Hyperreality is a Pscyhotechnology
 
 This is part 4 of a series. Part 1: H[ow Science and Postmodernism Interrelate](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fhow-science-and-postmodernism-interrelate-84ae97f388b0). Part 2: [From Postmodernism to Metamodernism](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Ffrom-postmodernism-to-metamodernism-8c1c3ec8a426). Part 3: [Conspiracy Theories, Ideology, and Metaphysics in the Metamodern Era](https://medium.com/r/?url=https%3A%2F%2Fsulphuroxide.medium.com%2Fconspiracy-theories-and-metaphysics-in-the-metamodern-era-89457343faf8).
@@ -30,11 +24,11 @@ Instead, I am offering this list so that you can sleep how each of the parent an
 
 There's quite a few major takeaways, but one is to challenge a very basic idea: what is nature. Here's two takeaways in list format.
 
-<mark>1. To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.</mark>
+&emsp; - To grok this challenge, you need to consider the "cut" between nature/artificiality. Rethinking this cut requires that we rethink our metaphysical baggage, something we all have, even if you do not recognize how you use metaphysics. Essentially rejecting metaphysics means recognizing a kind of transcendental idealism that begs to be considered as absolute/a-contextual.
 
-<mark>While you look over this extended outline you will have many opportunities for creating metaphysical structures, often at the expense of otherstanding other structures.</mark>
+&emsp; While you look over this extended outline you will have many opportunities for creating metaphysical structures, often at the expense of otherstanding other structures.
 
-<mark>2. Rejecting modernist ideas include forgoing that objects have static properties that are expressed as some kind of inner core (scientific essentialism). One example of scientific essentialism is that people will consider a person's DNA (or a race of people) as the core of who they are through and through, along with a set of features that they cannot help but be.  Forgoing this idea can lead to understanding how other aspects have influence, other than culture or DNA.</mark>
+&emsp; - Rejecting modernist ideas include forgoing that objects have static properties that are expressed as some kind of inner core (scientific essentialism). One example of scientific essentialism is that people will consider a person's DNA (or a race of people) as the core of who they are through and through, along with a set of features that they cannot help but be.  Forgoing this idea can lead to understanding how other aspects have influence, other than culture or DNA.
 
 At the end, I hope you will understand when to apply metaphysics and when to eschew it.
 
