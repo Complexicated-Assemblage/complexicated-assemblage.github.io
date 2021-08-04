@@ -28,9 +28,4 @@ There's quite a few major takeaways, but one is to challenge a very basic idea: 
 
 At the end, I hope you will understand when to apply metaphysics and when to eschew it.
 
-An additional takeaway is to see how scientific essentialism is a confusion between cause and effect, something that also confuses us when we try and make sense of our everyday lives.
-
-
-This essay is a mix of science and philosophy, but at its core, I am not seeking an ivory tower examination of Truth, but a coming to terms of the very concepts we use daily to make sense of our lives in our morality, our politics, and our ethics as we co-create our shared lifeworld.
-
-Speaking of co-creation, I offer heavy thanks for Ahti Ahde for his friendship and his input, for this would be a very different essay if he did not share his deep insights with all of us.
+You'll see with the list format lots of entries are self-referential, because our ideas of what is the same, or different, is reflected in the dogmatic use of the format.
